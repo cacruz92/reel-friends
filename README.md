@@ -1,3 +1,6 @@
+API:
+https://www.omdbapi.com/
+
 Backend:
 
 https://github.com/cacruz92/reel-pals-backend
