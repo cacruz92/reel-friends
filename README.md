@@ -13,7 +13,6 @@ Movie Search: Explore and search for movies using the OMDb API.
 User Search: Find and follow other users on the platform.
 Personalized Feed: View recent activity from followed users.
 Movie Information: Access detailed information about movies.
-Rating System: Users can rate movies they've watched.
 
 Walk-through:
 
